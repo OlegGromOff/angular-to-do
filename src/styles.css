@@ -17,11 +17,8 @@ body {
     width: 100%;
     /* background-color: blue; */
     padding: 0 1rem 0 1rem;
+    margin-top: 5rem;
 }
 
 
 /* ##### READY FOR REFACTOR LATER ####### */
-
-.teaser {
-    font-size: 3rem;
-}
